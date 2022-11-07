@@ -15,7 +15,7 @@ O projeto é um app onde podemos buscar filmes e visualizar detalhes deles, o in
 - [material ui](https://mui.com/)
 - [API utilizada no projeto](https://www.themoviedb.org/)
 ## 🔗 Link Surge: 
-Acesse o site [clicando aqui!](https://promobit-mike.surge.sh/)
+Acesse o site [clicando aqui!](https://promobit-master.vercel.app)
 <br>
 
 ## 📸 Imagens:
